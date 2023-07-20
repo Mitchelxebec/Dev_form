@@ -1,0 +1,272 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#sec1{
+    background-color: rgb(207, 204, 204);
+}
+#div1 i{
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+}
+#h1{
+    padding-left: 30px;
+}
+#span1{
+    color: rgb(98, 194, 213);
+    text-decoration: underline;
+    gap: 10px;
+}
+#span1 i{
+    position: relative;
+    top: 2px;
+}
+#div2{
+    display: flex;
+}
+#h2{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#div3{
+    margin-top: 20px;
+    display: block;
+    position: relative;
+    left: 900px;
+}
+#div4{
+    height: 20px;
+    width: 30px;
+    background-color: blue;
+    border-radius: 1px solid blue;
+    position: relative;
+    left: 173px;
+    bottom: 19px;
+    right: 20px;
+}
+#div4 i{
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 10px;
+    top: 2px;
+}
+#div5{
+    border-radius: 1px solid black;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 10;
+}
+ul{
+    margin-left: 10px;
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+}
+#span2{
+     text-decoration: underline;
+     text-decoration-color: rgb(33, 151, 229);
+}
+#img1{
+    height: 60vh;
+    width: 100vw;
+}
+#sec4{
+    background-image: url(./group-afro-americans-working-together.jpg);
+    width: 98vw;
+    height: 60vh;
+    background-size: cover;
+    margin: 0 auto;
+}
+#div6{
+    height: 50vh;
+    width: 20vw;
+    border-radius: 1px solid black;
+    background-color: rgb(34, 34, 92);
+    padding-top: 10px;
+    padding-left: 10px;
+    position: relative;
+    top: 20px;
+    margin-left: 10px;
+}
+#h3{
+    margin-top: 20px;
+    color:white;
+}
+#span3{
+    color: aqua;
+}
+#but1{
+    color: white;
+    background-color: rgb(80, 80, 195) ;
+    border-radius: none;
+    height: 30px;
+    width: 90px;
+    border-color: blue;
+}
+#div7{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#small3{
+    position: relative;
+    left: 20vw;
+    justify-content: space-around;
+}
+#sec6{
+    background-color: rgb(34, 34, 92);
+    width: 98.5vw;
+    height: 50vh;
+}
+#div8{
+    display: flex;
+    padding-top: 30px;
+    /* margin-top: 30px; */
+    margin-left: 20px;
+}
+#but2{
+    background-color: rgb(123, 175, 248);
+    border-radius: 50px ;
+    height: 50px;
+    width: 50px;
+    border-color: rgb(123, 175, 248);
+}
+#div9{
+    display: block;
+}
+#h5{
+    color: aqua;
+}
+#small4{
+    color: white;
+}
+#div10{
+    display: flex;
+    justify-content: space-between;
+    gap: 190px;
+}
+#sec7{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#but3{
+    background-color: blue;
+    color: white;
+    height: 30px;
+    width: 90px;
+    border-color: blue;
+}
+#small5{
+    color: rgb(60, 155, 227);
+    text-decoration: underline;
+}
+#sec8{
+    background-color: rgb(203, 199, 199);
+    height: 30px;
+    width: 98.5vw;
+}
+#small6{
+    display: flex;
+    font-weight: 10;
+    gap: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#sec9{
+    background-color: rgb(184, 181, 181);
+    width: 98.5vw;
+    height: 40vh;
+}
+#but4{
+    background-color: white;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    border-color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: relative;
+    top: 20px;
+}
+#h7{
+    position: relative;
+    bottom: 20px;
+    margin-left: 60px;
+}
+#div13{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(150, 150, 151);
+    border-radius: 1px solid rgb(150, 150, 151);
+}
+#div13 i{
+    position: relative;
+    left: 6px;
+    top: 5px;
+}
+#div14{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(150, 150, 151);
+    border-radius: 1px solid rgb(150, 150, 151);
+
+}
+#div14 i{
+    position: relative;
+    left: 6px;
+    top: 5px;
+}
+
+#div15{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(150, 150, 151);
+    border-radius: 1px solid rgb(150, 150, 151);
+}
+#div15 i{
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+
+#div16{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(150, 150, 151);
+    border-radius: 1px solid rgb(150, 150, 151);
+}
+#div16 i{
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+
+#div17{
+    display: flex;
+    gap: 5px;
+    position: relative;
+    margin-left: 85vw;
+    bottom: 40px;
+}
+#div18{
+    position: relative;
+    margin-left:82vw ;
+    bottom: 30px;
+}
+
+
+
+/* @media screen and (max-width:585px){
+    ul{
+        display: block;
+    }
+    #div10{
+        display: block;
+    }
+
+} */
